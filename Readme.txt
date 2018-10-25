@@ -1,1 +1,1 @@
-This repository for php home works.
+This repository is for php home works.
